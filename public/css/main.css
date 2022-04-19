@@ -1,0 +1,23 @@
+main{
+   
+    background-color: #344960;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    color: #EDEDED;
+    font-size: 22px;
+    text-align: center;
+    
+}
+.text-top{
+    margin-bottom: 20px;
+}
+.text-bottom{
+margin-top: 20px;
+font-size: 18px;
+}
+.subscribe{
+    width: 370px;
+}

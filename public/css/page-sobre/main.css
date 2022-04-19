@@ -1,0 +1,12 @@
+section{
+    width: 90%;
+    margin: 0 auto;
+}
+p{
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #3D3D3D;
+}
+main{
+    background-color: #F3F3F3;
+}

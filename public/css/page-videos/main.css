@@ -1,0 +1,25 @@
+section{
+    width: 90%;
+    margin: 0 auto;
+}
+.videos{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.video{
+    width: 300px;
+    margin-right: 30px;
+}
+img{
+    width: 100%;
+}
+p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: #3D3D3D;
+}
+main{
+    background-color: #F3F3F3;
+}

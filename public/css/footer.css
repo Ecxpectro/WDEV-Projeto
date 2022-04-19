@@ -1,0 +1,21 @@
+footer{
+    background-color: #2B3D50;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    height: 60px;
+}
+.sociallink{
+    border: 2px solid #EDEDED;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sociallink > img {
+    width: 20px;
+}  

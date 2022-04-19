@@ -1,0 +1,19 @@
+section{
+    width: 90%;
+    margin: 0 auto;
+}
+p{
+    font-size: 18px;
+    font-weight: 600;
+    color: #3D3D3D;
+}
+section > div > a {
+    font-size: 16px;
+    color: #3D3D3D;
+}
+.contato{
+    margin-bottom: 20px;
+}
+main{
+    background-color: #F3F3F3;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+main{
+    width: 100%;
+    height: calc(100vh - 120px);
+}
+h1{
+    color: #FF5555;   
+    font-size: 30px;
+    padding: 40px 0;
+    
+}
